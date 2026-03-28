@@ -1,6 +1,6 @@
-# Miloš Jerinić — Mechatronics Engineer | Robotics & Automation
+# Miloš Jerinić | Mechatronics Engineer | Robotics & Automation
 
-🎓 BSc Mechatronics Engineering — Faculty of Technical Sciences, University of Novi Sad (2026)
+🎓 BSc in Mechatronics Engineering - Faculty of Technical Sciences, University of Novi Sad 
 📍 Belgrade, Serbia | Open to relocation across Europe
 🔗 [LinkedIn](https://www.linkedin.com/in/milosjerinic)
 
@@ -50,4 +50,4 @@ Implemented PID-controlled differential drive, odometry, and a Finite State Mach
 ## Currently
 
 🌍 Open to opportunities in **Robotics & Industrial Automation** across **Slovenia, Austria, and Germany**
-📚 Learning: German language | Expanding ROS2 knowledge
+📚 Learning: Slovenian and German language | Expanding ROS2 knowledge
