@@ -9,7 +9,7 @@
 ## About Me
 
 I'm a mechatronics engineer specializing in robotics, industrial automation, and embedded systems.
-My work bridges the gap between hardware and intelligent software — from PLC programming and robot synchronization to IIoT architectures and real-time control systems.
+My work bridges the gap between hardware and intelligent software, from PLC programming and robot synchronization to IIoT architectures and real-time control systems.
 
 Currently open to junior engineering roles in **Robotics & Automation** across Europe.
 
